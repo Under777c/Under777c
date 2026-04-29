@@ -12,7 +12,7 @@ If you want the long version: [ilyakurkin.com](https://www.ilyakurkin.com). To t
 
 [Omni Avatar](https://www.ilyakurkin.com/projects/omni-avatar) — I founded this. Cross-engine avatar identity layer for Unity, Unreal and Roblox. We hit MVP, raised through Polkadot's Treasury Child Bounty across two six-month milestones, ran the company about a year. I paused it in early 2026 when the ecosystem thesis stopped making sense to me. Pipeline IP came with me.
 
-[Voldex / NFL Universe](https://www.ilyakurkin.com/projects/voldex) — modular helmet design system delivered solo in roughly 14 hours, as a paid Voldex test assignment.
+[Moonsama EXO](https://www.ilyakurkin.com/projects/moonsama-characters) — game-ready character system for Moonsama's EXO universe. Base model with modular apparel, footwear and headwear designed to recombine. I built the per-character pipeline behind it as Lead 3D Artist, with a team of three.
 
 #### Numbers from past roles
 
