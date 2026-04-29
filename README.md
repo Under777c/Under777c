@@ -1,45 +1,41 @@
-<!--
-  GitHub profile README for github.com/Under777c.
-  Paste contents (without this comment) into Under777c/Under777c repo's README.md.
+### Hi, I'm Ilya Kurkin
 
-  The repo must be named exactly "Under777c" — same as the username.
-  GitHub will then surface this README at the top of the profile page.
--->
+I go by `@Undergraphics`. I build 3D pipelines for game dev — Unreal, Unity, Roblox — and the AI tooling that wraps them. 12 years in.
 
-### Hi, I'm Ilya Kurkin — `@Undergraphics`
-
-3D pipeline & AI tooling engineer for game dev. **12 years professional, self-taught.** I build production pipelines (concept → engine integration in **Unreal, Unity, Roblox**) and the AI tooling that makes them fast.
-
-🌐 **[ilyakurkin.com](https://www.ilyakurkin.com)** · 📅 **[Book a 30-min call](https://calendly.com/ilyakurkin/30min)** · ✉️ ilya@ilyakurkin.com
+If you want the long version: [ilyakurkin.com](https://www.ilyakurkin.com). To talk: [book a 30-min call](https://calendly.com/ilyakurkin/30min) or email ilya@ilyakurkin.com.
 
 ---
 
-#### What I'm shipping
+#### What I've been working on
 
-- **[Smashline](https://www.ilyakurkin.com/projects/smashline)** — 100-player arena combat game on Roblox. Designed, built, and shipped solo in **2 weeks** on my own pipeline + AI tooling. *2026.*
-- **[Omni Avatar](https://www.ilyakurkin.com/projects/omni-avatar)** — cross-engine avatar identity layer (Unity / Unreal / Roblox). Founder & CEO. MVP shipped, **seed-funded via Polkadot Treasury Child Bounty** (2 funded six-month milestones). Paused early 2026 on ecosystem shift; pipeline IP retained.
-- **[Voldex / NFL Universe](https://www.ilyakurkin.com/projects/voldex)** — modular helmet system delivered solo in **~14 hours** as a paid Voldex test assignment.
+[Smashline](https://www.ilyakurkin.com/projects/smashline) — a 100-player arena combat game on Roblox. I designed, built and shipped it solo in two weeks, on a pipeline I put together from scratch. It's live.
 
-#### Track record
+[Omni Avatar](https://www.ilyakurkin.com/projects/omni-avatar) — I founded this. Cross-engine avatar identity layer for Unity, Unreal and Roblox. We hit MVP, raised through Polkadot's Treasury Child Bounty across two six-month milestones, ran the company about a year. I paused it in early 2026 when the ecosystem thesis stopped making sense to me. Pipeline IP came with me.
 
-| Outcome | Where |
+[Voldex / NFL Universe](https://www.ilyakurkin.com/projects/voldex) — modular helmet design system delivered solo in roughly 14 hours, as a paid Voldex test assignment.
+
+#### Numbers from past roles
+
+Specific outcomes, since vague claims aren't useful:
+
+| What | Where |
 |---|---|
-| Character pipeline cut from **2 weeks → 5 days** | Moonsama (Lead 3D Artist) |
-| **60%** reduction in 3D model production cost | Moonsama |
-| **20%** game-perf gain from custom LOD system | Moonsama |
-| **15,000+** unique avatar combos before texture variants | Omni Avatar |
-| Roblox game shipped solo in **2 weeks** | Smashline |
+| Per-character pipeline cut from 2 weeks to 5 days | Moonsama, as Lead 3D Artist |
+| 60% reduction in 3D model production cost | Moonsama |
+| 20% game-perf gain from a custom LOD system | Moonsama |
+| 15,000+ unique avatar combinations before texture variants | Omni Avatar |
+| Roblox game shipped solo in 2 weeks | Smashline |
 
-#### Stack
+#### Stack I work in
 
-**Engines:** Unreal Engine · Unity · Roblox Studio
-**DCC:** Blender · ZBrush · Substance Painter · Marmoset Toolbag
-**Practice:** AI tooling for 3D · production pipeline architecture · cross-engine systems · LOD systems · modular asset architecture
+Engines: Unreal Engine, Unity, Roblox Studio.
+DCC: Blender, ZBrush, Substance Painter, Marmoset Toolbag.
+Other: AI tooling for 3D, production pipeline architecture, cross-engine systems, modular asset architecture, LOD systems.
 
-#### Where else to find me
+#### Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/undergraphics) · [ArtStation](https://www.artstation.com/undergraphics) · [YouTube](https://www.youtube.com/@Undergraphics) · [X](https://x.com/Undergraphics) · [Site](https://www.ilyakurkin.com) · [Resume](https://www.ilyakurkin.com/resume)
 
 ---
 
-> 📬 **Open to full-time, fully remote roles** building 3D games or game-dev tooling. APAC (GMT+8). Response within 24h.
+Open to full-time, fully remote roles building 3D games or game-dev tooling. Asia-Pacific, GMT+8 — overlaps cleanly with most APAC offices. EOR-friendly (Deel, Remote.com, Oyster). I usually respond within 24h.
